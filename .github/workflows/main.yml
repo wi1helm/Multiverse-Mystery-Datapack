@@ -21,7 +21,7 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}  # Use password instead of key
           script: |
             cd C:\Users\wilhe\OneDrive\Dokument\GitHub\Multiverse-Mystery-Datapack
-            git pull
+            "C:/Program/git/cmd/git" pull
 
       - name: Run Python script
         uses: appleboy/ssh-action@master
