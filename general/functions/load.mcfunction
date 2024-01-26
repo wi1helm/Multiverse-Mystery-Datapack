@@ -1,0 +1,1 @@
+tellraw @a {"text":"> DATAPACK LOADED SUCESSFULLY!","color": "green"}
