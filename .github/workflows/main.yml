@@ -33,6 +33,6 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}  # Use password instead of key
           script: |
             cd C:\Users\wilhe\datapack
-            echo "Current directory: $PWD"
+            mkdir testifworki
             python datapack_creator.py
             echo "Python script execution successful"
