@@ -1,1 +1,1 @@
-say obama is the best in the world
+tellraw @a {"text":"Cool man","Color":"green"}
