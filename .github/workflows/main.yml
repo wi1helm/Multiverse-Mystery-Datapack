@@ -21,7 +21,7 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}  # Use password instead of key
           script: |
             cd C:\Users\wilhe\OneDrive\Dokument\GitHub\Multiverse-Mystery-Datapack
-            "C:/Program/git/cmd/git" pull || exit 1
+            "C:/Program/git/cmd/git" pull
             mkdir testifworki
             echo "Git pull successful"
 
@@ -34,5 +34,5 @@ jobs:
           script: |
             cd C:\Users\wilhe\datapack
             echo "Current directory: $PWD"
-            python datapack_creator.py || exit 1
+            python datapack_creator.py
             echo "Python script execution successful"
