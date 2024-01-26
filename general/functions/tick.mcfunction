@@ -1,1 +1,1 @@
-say wilhelm is the best
+say obama is the best in the world
