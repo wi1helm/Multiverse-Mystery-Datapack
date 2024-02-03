@@ -2,7 +2,9 @@
 
 # Clear Storage
     # Player
-        data merge storage minecraft:player {}
+        data modify storage minecraft:player actionbar set value {}
+        data modify storage minecraft:player api set value {}
+        data modify storage minecraft:player stats set value {}
 
 # Scoreboard Objectives
     # Show Player Stats
