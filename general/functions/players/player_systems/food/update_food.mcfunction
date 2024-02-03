@@ -1,3 +1,5 @@
+# Set defualt food level
+execute unless score @s player_set_food matches 0.. run scoreboard players set @s player_set_food 19
 
 # Get food level
 scoreboard players operation @s player_set_food_high = @s player_set_food
