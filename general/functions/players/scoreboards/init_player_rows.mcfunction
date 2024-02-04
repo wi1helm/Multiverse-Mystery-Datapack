@@ -1,496 +1,496 @@
-# Team : aqua
+# Team: aqua
 # Row 1
-scoreboard players set 1 sidebar_aqua 1
+scoreboard players set 1 sidebar_aqua_player 1
 # Row 2
-scoreboard players set 2 sidebar_aqua 2
+scoreboard players set 2 sidebar_aqua_player 2
 # Row 3
-scoreboard players set 3 sidebar_aqua 3
+scoreboard players set 3 sidebar_aqua_player 3
 # Row 4
-scoreboard players set 4 sidebar_aqua 4
+scoreboard players set 4 sidebar_aqua_player 4
 # Row 5
-scoreboard players set 5 sidebar_aqua 5
+scoreboard players set 5 sidebar_aqua_player 5
 # Row 6
-scoreboard players set 6 sidebar_aqua 6
+scoreboard players set 6 sidebar_aqua_player 6
 # Row 7
-scoreboard players set 7 sidebar_aqua 7
+scoreboard players set 7 sidebar_aqua_player 7
 # Row 8
-scoreboard players set 8 sidebar_aqua 8
+scoreboard players set 8 sidebar_aqua_player 8
 # Row 9
-scoreboard players set 9 sidebar_aqua 9
+scoreboard players set 9 sidebar_aqua_player 9
 # Row 10
-scoreboard players set 10 sidebar_aqua 10
+scoreboard players set 10 sidebar_aqua_player 10
 # Row 11
-scoreboard players set 11 sidebar_aqua 11
+scoreboard players set 11 sidebar_aqua_player 11
 # Row 12
-scoreboard players set 12 sidebar_aqua 12
+scoreboard players set 12 sidebar_aqua_player 12
 # Row 13
-scoreboard players set 13 sidebar_aqua 13
+scoreboard players set 13 sidebar_aqua_player 13
 # Row 14
-scoreboard players set 14 sidebar_aqua 14
+scoreboard players set 14 sidebar_aqua_player 14
 # Row 15
-scoreboard players set 15 sidebar_aqua 15
-# Team : black
+scoreboard players set 15 sidebar_aqua_player 15
+# Team: black
 # Row 1
-scoreboard players set 1 sidebar_black 1
+scoreboard players set 1 sidebar_black_player 1
 # Row 2
-scoreboard players set 2 sidebar_black 2
+scoreboard players set 2 sidebar_black_player 2
 # Row 3
-scoreboard players set 3 sidebar_black 3
+scoreboard players set 3 sidebar_black_player 3
 # Row 4
-scoreboard players set 4 sidebar_black 4
+scoreboard players set 4 sidebar_black_player 4
 # Row 5
-scoreboard players set 5 sidebar_black 5
+scoreboard players set 5 sidebar_black_player 5
 # Row 6
-scoreboard players set 6 sidebar_black 6
+scoreboard players set 6 sidebar_black_player 6
 # Row 7
-scoreboard players set 7 sidebar_black 7
+scoreboard players set 7 sidebar_black_player 7
 # Row 8
-scoreboard players set 8 sidebar_black 8
+scoreboard players set 8 sidebar_black_player 8
 # Row 9
-scoreboard players set 9 sidebar_black 9
+scoreboard players set 9 sidebar_black_player 9
 # Row 10
-scoreboard players set 10 sidebar_black 10
+scoreboard players set 10 sidebar_black_player 10
 # Row 11
-scoreboard players set 11 sidebar_black 11
+scoreboard players set 11 sidebar_black_player 11
 # Row 12
-scoreboard players set 12 sidebar_black 12
+scoreboard players set 12 sidebar_black_player 12
 # Row 13
-scoreboard players set 13 sidebar_black 13
+scoreboard players set 13 sidebar_black_player 13
 # Row 14
-scoreboard players set 14 sidebar_black 14
+scoreboard players set 14 sidebar_black_player 14
 # Row 15
-scoreboard players set 15 sidebar_black 15
-# Team : blue
+scoreboard players set 15 sidebar_black_player 15
+# Team: blue
 # Row 1
-scoreboard players set 1 sidebar_blue 1
+scoreboard players set 1 sidebar_blue_player 1
 # Row 2
-scoreboard players set 2 sidebar_blue 2
+scoreboard players set 2 sidebar_blue_player 2
 # Row 3
-scoreboard players set 3 sidebar_blue 3
+scoreboard players set 3 sidebar_blue_player 3
 # Row 4
-scoreboard players set 4 sidebar_blue 4
+scoreboard players set 4 sidebar_blue_player 4
 # Row 5
-scoreboard players set 5 sidebar_blue 5
+scoreboard players set 5 sidebar_blue_player 5
 # Row 6
-scoreboard players set 6 sidebar_blue 6
+scoreboard players set 6 sidebar_blue_player 6
 # Row 7
-scoreboard players set 7 sidebar_blue 7
+scoreboard players set 7 sidebar_blue_player 7
 # Row 8
-scoreboard players set 8 sidebar_blue 8
+scoreboard players set 8 sidebar_blue_player 8
 # Row 9
-scoreboard players set 9 sidebar_blue 9
+scoreboard players set 9 sidebar_blue_player 9
 # Row 10
-scoreboard players set 10 sidebar_blue 10
+scoreboard players set 10 sidebar_blue_player 10
 # Row 11
-scoreboard players set 11 sidebar_blue 11
+scoreboard players set 11 sidebar_blue_player 11
 # Row 12
-scoreboard players set 12 sidebar_blue 12
+scoreboard players set 12 sidebar_blue_player 12
 # Row 13
-scoreboard players set 13 sidebar_blue 13
+scoreboard players set 13 sidebar_blue_player 13
 # Row 14
-scoreboard players set 14 sidebar_blue 14
+scoreboard players set 14 sidebar_blue_player 14
 # Row 15
-scoreboard players set 15 sidebar_blue 15
-# Team : dark_aqua
+scoreboard players set 15 sidebar_blue_player 15
+# Team: dark_aqua
 # Row 1
-scoreboard players set 1 sidebar_dark_aqua 1
+scoreboard players set 1 sidebar_dark_aqua_player 1
 # Row 2
-scoreboard players set 2 sidebar_dark_aqua 2
+scoreboard players set 2 sidebar_dark_aqua_player 2
 # Row 3
-scoreboard players set 3 sidebar_dark_aqua 3
+scoreboard players set 3 sidebar_dark_aqua_player 3
 # Row 4
-scoreboard players set 4 sidebar_dark_aqua 4
+scoreboard players set 4 sidebar_dark_aqua_player 4
 # Row 5
-scoreboard players set 5 sidebar_dark_aqua 5
+scoreboard players set 5 sidebar_dark_aqua_player 5
 # Row 6
-scoreboard players set 6 sidebar_dark_aqua 6
+scoreboard players set 6 sidebar_dark_aqua_player 6
 # Row 7
-scoreboard players set 7 sidebar_dark_aqua 7
+scoreboard players set 7 sidebar_dark_aqua_player 7
 # Row 8
-scoreboard players set 8 sidebar_dark_aqua 8
+scoreboard players set 8 sidebar_dark_aqua_player 8
 # Row 9
-scoreboard players set 9 sidebar_dark_aqua 9
+scoreboard players set 9 sidebar_dark_aqua_player 9
 # Row 10
-scoreboard players set 10 sidebar_dark_aqua 10
+scoreboard players set 10 sidebar_dark_aqua_player 10
 # Row 11
-scoreboard players set 11 sidebar_dark_aqua 11
+scoreboard players set 11 sidebar_dark_aqua_player 11
 # Row 12
-scoreboard players set 12 sidebar_dark_aqua 12
+scoreboard players set 12 sidebar_dark_aqua_player 12
 # Row 13
-scoreboard players set 13 sidebar_dark_aqua 13
+scoreboard players set 13 sidebar_dark_aqua_player 13
 # Row 14
-scoreboard players set 14 sidebar_dark_aqua 14
+scoreboard players set 14 sidebar_dark_aqua_player 14
 # Row 15
-scoreboard players set 15 sidebar_dark_aqua 15
-# Team : dark_blue
+scoreboard players set 15 sidebar_dark_aqua_player 15
+# Team: dark_blue
 # Row 1
-scoreboard players set 1 sidebar_dark_blue 1
+scoreboard players set 1 sidebar_dark_blue_player 1
 # Row 2
-scoreboard players set 2 sidebar_dark_blue 2
+scoreboard players set 2 sidebar_dark_blue_player 2
 # Row 3
-scoreboard players set 3 sidebar_dark_blue 3
+scoreboard players set 3 sidebar_dark_blue_player 3
 # Row 4
-scoreboard players set 4 sidebar_dark_blue 4
+scoreboard players set 4 sidebar_dark_blue_player 4
 # Row 5
-scoreboard players set 5 sidebar_dark_blue 5
+scoreboard players set 5 sidebar_dark_blue_player 5
 # Row 6
-scoreboard players set 6 sidebar_dark_blue 6
+scoreboard players set 6 sidebar_dark_blue_player 6
 # Row 7
-scoreboard players set 7 sidebar_dark_blue 7
+scoreboard players set 7 sidebar_dark_blue_player 7
 # Row 8
-scoreboard players set 8 sidebar_dark_blue 8
+scoreboard players set 8 sidebar_dark_blue_player 8
 # Row 9
-scoreboard players set 9 sidebar_dark_blue 9
+scoreboard players set 9 sidebar_dark_blue_player 9
 # Row 10
-scoreboard players set 10 sidebar_dark_blue 10
+scoreboard players set 10 sidebar_dark_blue_player 10
 # Row 11
-scoreboard players set 11 sidebar_dark_blue 11
+scoreboard players set 11 sidebar_dark_blue_player 11
 # Row 12
-scoreboard players set 12 sidebar_dark_blue 12
+scoreboard players set 12 sidebar_dark_blue_player 12
 # Row 13
-scoreboard players set 13 sidebar_dark_blue 13
+scoreboard players set 13 sidebar_dark_blue_player 13
 # Row 14
-scoreboard players set 14 sidebar_dark_blue 14
+scoreboard players set 14 sidebar_dark_blue_player 14
 # Row 15
-scoreboard players set 15 sidebar_dark_blue 15
-# Team : dark_gray
+scoreboard players set 15 sidebar_dark_blue_player 15
+# Team: dark_gray
 # Row 1
-scoreboard players set 1 sidebar_dark_gray 1
+scoreboard players set 1 sidebar_dark_gray_player 1
 # Row 2
-scoreboard players set 2 sidebar_dark_gray 2
+scoreboard players set 2 sidebar_dark_gray_player 2
 # Row 3
-scoreboard players set 3 sidebar_dark_gray 3
+scoreboard players set 3 sidebar_dark_gray_player 3
 # Row 4
-scoreboard players set 4 sidebar_dark_gray 4
+scoreboard players set 4 sidebar_dark_gray_player 4
 # Row 5
-scoreboard players set 5 sidebar_dark_gray 5
+scoreboard players set 5 sidebar_dark_gray_player 5
 # Row 6
-scoreboard players set 6 sidebar_dark_gray 6
+scoreboard players set 6 sidebar_dark_gray_player 6
 # Row 7
-scoreboard players set 7 sidebar_dark_gray 7
+scoreboard players set 7 sidebar_dark_gray_player 7
 # Row 8
-scoreboard players set 8 sidebar_dark_gray 8
+scoreboard players set 8 sidebar_dark_gray_player 8
 # Row 9
-scoreboard players set 9 sidebar_dark_gray 9
+scoreboard players set 9 sidebar_dark_gray_player 9
 # Row 10
-scoreboard players set 10 sidebar_dark_gray 10
+scoreboard players set 10 sidebar_dark_gray_player 10
 # Row 11
-scoreboard players set 11 sidebar_dark_gray 11
+scoreboard players set 11 sidebar_dark_gray_player 11
 # Row 12
-scoreboard players set 12 sidebar_dark_gray 12
+scoreboard players set 12 sidebar_dark_gray_player 12
 # Row 13
-scoreboard players set 13 sidebar_dark_gray 13
+scoreboard players set 13 sidebar_dark_gray_player 13
 # Row 14
-scoreboard players set 14 sidebar_dark_gray 14
+scoreboard players set 14 sidebar_dark_gray_player 14
 # Row 15
-scoreboard players set 15 sidebar_dark_gray 15
-# Team : dark_green
+scoreboard players set 15 sidebar_dark_gray_player 15
+# Team: dark_green
 # Row 1
-scoreboard players set 1 sidebar_dark_green 1
+scoreboard players set 1 sidebar_dark_green_player 1
 # Row 2
-scoreboard players set 2 sidebar_dark_green 2
+scoreboard players set 2 sidebar_dark_green_player 2
 # Row 3
-scoreboard players set 3 sidebar_dark_green 3
+scoreboard players set 3 sidebar_dark_green_player 3
 # Row 4
-scoreboard players set 4 sidebar_dark_green 4
+scoreboard players set 4 sidebar_dark_green_player 4
 # Row 5
-scoreboard players set 5 sidebar_dark_green 5
+scoreboard players set 5 sidebar_dark_green_player 5
 # Row 6
-scoreboard players set 6 sidebar_dark_green 6
+scoreboard players set 6 sidebar_dark_green_player 6
 # Row 7
-scoreboard players set 7 sidebar_dark_green 7
+scoreboard players set 7 sidebar_dark_green_player 7
 # Row 8
-scoreboard players set 8 sidebar_dark_green 8
+scoreboard players set 8 sidebar_dark_green_player 8
 # Row 9
-scoreboard players set 9 sidebar_dark_green 9
+scoreboard players set 9 sidebar_dark_green_player 9
 # Row 10
-scoreboard players set 10 sidebar_dark_green 10
+scoreboard players set 10 sidebar_dark_green_player 10
 # Row 11
-scoreboard players set 11 sidebar_dark_green 11
+scoreboard players set 11 sidebar_dark_green_player 11
 # Row 12
-scoreboard players set 12 sidebar_dark_green 12
+scoreboard players set 12 sidebar_dark_green_player 12
 # Row 13
-scoreboard players set 13 sidebar_dark_green 13
+scoreboard players set 13 sidebar_dark_green_player 13
 # Row 14
-scoreboard players set 14 sidebar_dark_green 14
+scoreboard players set 14 sidebar_dark_green_player 14
 # Row 15
-scoreboard players set 15 sidebar_dark_green 15
-# Team : dark_purple
+scoreboard players set 15 sidebar_dark_green_player 15
+# Team: dark_purple
 # Row 1
-scoreboard players set 1 sidebar_dark_purple 1
+scoreboard players set 1 sidebar_dark_purple_player 1
 # Row 2
-scoreboard players set 2 sidebar_dark_purple 2
+scoreboard players set 2 sidebar_dark_purple_player 2
 # Row 3
-scoreboard players set 3 sidebar_dark_purple 3
+scoreboard players set 3 sidebar_dark_purple_player 3
 # Row 4
-scoreboard players set 4 sidebar_dark_purple 4
+scoreboard players set 4 sidebar_dark_purple_player 4
 # Row 5
-scoreboard players set 5 sidebar_dark_purple 5
+scoreboard players set 5 sidebar_dark_purple_player 5
 # Row 6
-scoreboard players set 6 sidebar_dark_purple 6
+scoreboard players set 6 sidebar_dark_purple_player 6
 # Row 7
-scoreboard players set 7 sidebar_dark_purple 7
+scoreboard players set 7 sidebar_dark_purple_player 7
 # Row 8
-scoreboard players set 8 sidebar_dark_purple 8
+scoreboard players set 8 sidebar_dark_purple_player 8
 # Row 9
-scoreboard players set 9 sidebar_dark_purple 9
+scoreboard players set 9 sidebar_dark_purple_player 9
 # Row 10
-scoreboard players set 10 sidebar_dark_purple 10
+scoreboard players set 10 sidebar_dark_purple_player 10
 # Row 11
-scoreboard players set 11 sidebar_dark_purple 11
+scoreboard players set 11 sidebar_dark_purple_player 11
 # Row 12
-scoreboard players set 12 sidebar_dark_purple 12
+scoreboard players set 12 sidebar_dark_purple_player 12
 # Row 13
-scoreboard players set 13 sidebar_dark_purple 13
+scoreboard players set 13 sidebar_dark_purple_player 13
 # Row 14
-scoreboard players set 14 sidebar_dark_purple 14
+scoreboard players set 14 sidebar_dark_purple_player 14
 # Row 15
-scoreboard players set 15 sidebar_dark_purple 15
-# Team : dark_red
+scoreboard players set 15 sidebar_dark_purple_player 15
+# Team: dark_red
 # Row 1
-scoreboard players set 1 sidebar_dark_red 1
+scoreboard players set 1 sidebar_dark_red_player 1
 # Row 2
-scoreboard players set 2 sidebar_dark_red 2
+scoreboard players set 2 sidebar_dark_red_player 2
 # Row 3
-scoreboard players set 3 sidebar_dark_red 3
+scoreboard players set 3 sidebar_dark_red_player 3
 # Row 4
-scoreboard players set 4 sidebar_dark_red 4
+scoreboard players set 4 sidebar_dark_red_player 4
 # Row 5
-scoreboard players set 5 sidebar_dark_red 5
+scoreboard players set 5 sidebar_dark_red_player 5
 # Row 6
-scoreboard players set 6 sidebar_dark_red 6
+scoreboard players set 6 sidebar_dark_red_player 6
 # Row 7
-scoreboard players set 7 sidebar_dark_red 7
+scoreboard players set 7 sidebar_dark_red_player 7
 # Row 8
-scoreboard players set 8 sidebar_dark_red 8
+scoreboard players set 8 sidebar_dark_red_player 8
 # Row 9
-scoreboard players set 9 sidebar_dark_red 9
+scoreboard players set 9 sidebar_dark_red_player 9
 # Row 10
-scoreboard players set 10 sidebar_dark_red 10
+scoreboard players set 10 sidebar_dark_red_player 10
 # Row 11
-scoreboard players set 11 sidebar_dark_red 11
+scoreboard players set 11 sidebar_dark_red_player 11
 # Row 12
-scoreboard players set 12 sidebar_dark_red 12
+scoreboard players set 12 sidebar_dark_red_player 12
 # Row 13
-scoreboard players set 13 sidebar_dark_red 13
+scoreboard players set 13 sidebar_dark_red_player 13
 # Row 14
-scoreboard players set 14 sidebar_dark_red 14
+scoreboard players set 14 sidebar_dark_red_player 14
 # Row 15
-scoreboard players set 15 sidebar_dark_red 15
-# Team : gold
+scoreboard players set 15 sidebar_dark_red_player 15
+# Team: gold
 # Row 1
-scoreboard players set 1 sidebar_gold 1
+scoreboard players set 1 sidebar_gold_player 1
 # Row 2
-scoreboard players set 2 sidebar_gold 2
+scoreboard players set 2 sidebar_gold_player 2
 # Row 3
-scoreboard players set 3 sidebar_gold 3
+scoreboard players set 3 sidebar_gold_player 3
 # Row 4
-scoreboard players set 4 sidebar_gold 4
+scoreboard players set 4 sidebar_gold_player 4
 # Row 5
-scoreboard players set 5 sidebar_gold 5
+scoreboard players set 5 sidebar_gold_player 5
 # Row 6
-scoreboard players set 6 sidebar_gold 6
+scoreboard players set 6 sidebar_gold_player 6
 # Row 7
-scoreboard players set 7 sidebar_gold 7
+scoreboard players set 7 sidebar_gold_player 7
 # Row 8
-scoreboard players set 8 sidebar_gold 8
+scoreboard players set 8 sidebar_gold_player 8
 # Row 9
-scoreboard players set 9 sidebar_gold 9
+scoreboard players set 9 sidebar_gold_player 9
 # Row 10
-scoreboard players set 10 sidebar_gold 10
+scoreboard players set 10 sidebar_gold_player 10
 # Row 11
-scoreboard players set 11 sidebar_gold 11
+scoreboard players set 11 sidebar_gold_player 11
 # Row 12
-scoreboard players set 12 sidebar_gold 12
+scoreboard players set 12 sidebar_gold_player 12
 # Row 13
-scoreboard players set 13 sidebar_gold 13
+scoreboard players set 13 sidebar_gold_player 13
 # Row 14
-scoreboard players set 14 sidebar_gold 14
+scoreboard players set 14 sidebar_gold_player 14
 # Row 15
-scoreboard players set 15 sidebar_gold 15
-# Team : gray
+scoreboard players set 15 sidebar_gold_player 15
+# Team: gray
 # Row 1
-scoreboard players set 1 sidebar_gray 1
+scoreboard players set 1 sidebar_gray_player 1
 # Row 2
-scoreboard players set 2 sidebar_gray 2
+scoreboard players set 2 sidebar_gray_player 2
 # Row 3
-scoreboard players set 3 sidebar_gray 3
+scoreboard players set 3 sidebar_gray_player 3
 # Row 4
-scoreboard players set 4 sidebar_gray 4
+scoreboard players set 4 sidebar_gray_player 4
 # Row 5
-scoreboard players set 5 sidebar_gray 5
+scoreboard players set 5 sidebar_gray_player 5
 # Row 6
-scoreboard players set 6 sidebar_gray 6
+scoreboard players set 6 sidebar_gray_player 6
 # Row 7
-scoreboard players set 7 sidebar_gray 7
+scoreboard players set 7 sidebar_gray_player 7
 # Row 8
-scoreboard players set 8 sidebar_gray 8
+scoreboard players set 8 sidebar_gray_player 8
 # Row 9
-scoreboard players set 9 sidebar_gray 9
+scoreboard players set 9 sidebar_gray_player 9
 # Row 10
-scoreboard players set 10 sidebar_gray 10
+scoreboard players set 10 sidebar_gray_player 10
 # Row 11
-scoreboard players set 11 sidebar_gray 11
+scoreboard players set 11 sidebar_gray_player 11
 # Row 12
-scoreboard players set 12 sidebar_gray 12
+scoreboard players set 12 sidebar_gray_player 12
 # Row 13
-scoreboard players set 13 sidebar_gray 13
+scoreboard players set 13 sidebar_gray_player 13
 # Row 14
-scoreboard players set 14 sidebar_gray 14
+scoreboard players set 14 sidebar_gray_player 14
 # Row 15
-scoreboard players set 15 sidebar_gray 15
-# Team : green
+scoreboard players set 15 sidebar_gray_player 15
+# Team: green
 # Row 1
-scoreboard players set 1 sidebar_green 1
+scoreboard players set 1 sidebar_green_player 1
 # Row 2
-scoreboard players set 2 sidebar_green 2
+scoreboard players set 2 sidebar_green_player 2
 # Row 3
-scoreboard players set 3 sidebar_green 3
+scoreboard players set 3 sidebar_green_player 3
 # Row 4
-scoreboard players set 4 sidebar_green 4
+scoreboard players set 4 sidebar_green_player 4
 # Row 5
-scoreboard players set 5 sidebar_green 5
+scoreboard players set 5 sidebar_green_player 5
 # Row 6
-scoreboard players set 6 sidebar_green 6
+scoreboard players set 6 sidebar_green_player 6
 # Row 7
-scoreboard players set 7 sidebar_green 7
+scoreboard players set 7 sidebar_green_player 7
 # Row 8
-scoreboard players set 8 sidebar_green 8
+scoreboard players set 8 sidebar_green_player 8
 # Row 9
-scoreboard players set 9 sidebar_green 9
+scoreboard players set 9 sidebar_green_player 9
 # Row 10
-scoreboard players set 10 sidebar_green 10
+scoreboard players set 10 sidebar_green_player 10
 # Row 11
-scoreboard players set 11 sidebar_green 11
+scoreboard players set 11 sidebar_green_player 11
 # Row 12
-scoreboard players set 12 sidebar_green 12
+scoreboard players set 12 sidebar_green_player 12
 # Row 13
-scoreboard players set 13 sidebar_green 13
+scoreboard players set 13 sidebar_green_player 13
 # Row 14
-scoreboard players set 14 sidebar_green 14
+scoreboard players set 14 sidebar_green_player 14
 # Row 15
-scoreboard players set 15 sidebar_green 15
-# Team : light_purple
+scoreboard players set 15 sidebar_green_player 15
+# Team: light_purple
 # Row 1
-scoreboard players set 1 sidebar_light_purple 1
+scoreboard players set 1 sidebar_light_purple_player 1
 # Row 2
-scoreboard players set 2 sidebar_light_purple 2
+scoreboard players set 2 sidebar_light_purple_player 2
 # Row 3
-scoreboard players set 3 sidebar_light_purple 3
+scoreboard players set 3 sidebar_light_purple_player 3
 # Row 4
-scoreboard players set 4 sidebar_light_purple 4
+scoreboard players set 4 sidebar_light_purple_player 4
 # Row 5
-scoreboard players set 5 sidebar_light_purple 5
+scoreboard players set 5 sidebar_light_purple_player 5
 # Row 6
-scoreboard players set 6 sidebar_light_purple 6
+scoreboard players set 6 sidebar_light_purple_player 6
 # Row 7
-scoreboard players set 7 sidebar_light_purple 7
+scoreboard players set 7 sidebar_light_purple_player 7
 # Row 8
-scoreboard players set 8 sidebar_light_purple 8
+scoreboard players set 8 sidebar_light_purple_player 8
 # Row 9
-scoreboard players set 9 sidebar_light_purple 9
+scoreboard players set 9 sidebar_light_purple_player 9
 # Row 10
-scoreboard players set 10 sidebar_light_purple 10
+scoreboard players set 10 sidebar_light_purple_player 10
 # Row 11
-scoreboard players set 11 sidebar_light_purple 11
+scoreboard players set 11 sidebar_light_purple_player 11
 # Row 12
-scoreboard players set 12 sidebar_light_purple 12
+scoreboard players set 12 sidebar_light_purple_player 12
 # Row 13
-scoreboard players set 13 sidebar_light_purple 13
+scoreboard players set 13 sidebar_light_purple_player 13
 # Row 14
-scoreboard players set 14 sidebar_light_purple 14
+scoreboard players set 14 sidebar_light_purple_player 14
 # Row 15
-scoreboard players set 15 sidebar_light_purple 15
-# Team : red
+scoreboard players set 15 sidebar_light_purple_player 15
+# Team: red
 # Row 1
-scoreboard players set 1 sidebar_red 1
+scoreboard players set 1 sidebar_red_player 1
 # Row 2
-scoreboard players set 2 sidebar_red 2
+scoreboard players set 2 sidebar_red_player 2
 # Row 3
-scoreboard players set 3 sidebar_red 3
+scoreboard players set 3 sidebar_red_player 3
 # Row 4
-scoreboard players set 4 sidebar_red 4
+scoreboard players set 4 sidebar_red_player 4
 # Row 5
-scoreboard players set 5 sidebar_red 5
+scoreboard players set 5 sidebar_red_player 5
 # Row 6
-scoreboard players set 6 sidebar_red 6
+scoreboard players set 6 sidebar_red_player 6
 # Row 7
-scoreboard players set 7 sidebar_red 7
+scoreboard players set 7 sidebar_red_player 7
 # Row 8
-scoreboard players set 8 sidebar_red 8
+scoreboard players set 8 sidebar_red_player 8
 # Row 9
-scoreboard players set 9 sidebar_red 9
+scoreboard players set 9 sidebar_red_player 9
 # Row 10
-scoreboard players set 10 sidebar_red 10
+scoreboard players set 10 sidebar_red_player 10
 # Row 11
-scoreboard players set 11 sidebar_red 11
+scoreboard players set 11 sidebar_red_player 11
 # Row 12
-scoreboard players set 12 sidebar_red 12
+scoreboard players set 12 sidebar_red_player 12
 # Row 13
-scoreboard players set 13 sidebar_red 13
+scoreboard players set 13 sidebar_red_player 13
 # Row 14
-scoreboard players set 14 sidebar_red 14
+scoreboard players set 14 sidebar_red_player 14
 # Row 15
-scoreboard players set 15 sidebar_red 15
-# Team : white
+scoreboard players set 15 sidebar_red_player 15
+# Team: white
 # Row 1
-scoreboard players set 1 sidebar_white 1
+scoreboard players set 1 sidebar_white_player 1
 # Row 2
-scoreboard players set 2 sidebar_white 2
+scoreboard players set 2 sidebar_white_player 2
 # Row 3
-scoreboard players set 3 sidebar_white 3
+scoreboard players set 3 sidebar_white_player 3
 # Row 4
-scoreboard players set 4 sidebar_white 4
+scoreboard players set 4 sidebar_white_player 4
 # Row 5
-scoreboard players set 5 sidebar_white 5
+scoreboard players set 5 sidebar_white_player 5
 # Row 6
-scoreboard players set 6 sidebar_white 6
+scoreboard players set 6 sidebar_white_player 6
 # Row 7
-scoreboard players set 7 sidebar_white 7
+scoreboard players set 7 sidebar_white_player 7
 # Row 8
-scoreboard players set 8 sidebar_white 8
+scoreboard players set 8 sidebar_white_player 8
 # Row 9
-scoreboard players set 9 sidebar_white 9
+scoreboard players set 9 sidebar_white_player 9
 # Row 10
-scoreboard players set 10 sidebar_white 10
+scoreboard players set 10 sidebar_white_player 10
 # Row 11
-scoreboard players set 11 sidebar_white 11
+scoreboard players set 11 sidebar_white_player 11
 # Row 12
-scoreboard players set 12 sidebar_white 12
+scoreboard players set 12 sidebar_white_player 12
 # Row 13
-scoreboard players set 13 sidebar_white 13
+scoreboard players set 13 sidebar_white_player 13
 # Row 14
-scoreboard players set 14 sidebar_white 14
+scoreboard players set 14 sidebar_white_player 14
 # Row 15
-scoreboard players set 15 sidebar_white 15
-# Team : yellow
+scoreboard players set 15 sidebar_white_player 15
+# Team: yellow
 # Row 1
-scoreboard players set 1 sidebar_yellow 1
+scoreboard players set 1 sidebar_yellow_player 1
 # Row 2
-scoreboard players set 2 sidebar_yellow 2
+scoreboard players set 2 sidebar_yellow_player 2
 # Row 3
-scoreboard players set 3 sidebar_yellow 3
+scoreboard players set 3 sidebar_yellow_player 3
 # Row 4
-scoreboard players set 4 sidebar_yellow 4
+scoreboard players set 4 sidebar_yellow_player 4
 # Row 5
-scoreboard players set 5 sidebar_yellow 5
+scoreboard players set 5 sidebar_yellow_player 5
 # Row 6
-scoreboard players set 6 sidebar_yellow 6
+scoreboard players set 6 sidebar_yellow_player 6
 # Row 7
-scoreboard players set 7 sidebar_yellow 7
+scoreboard players set 7 sidebar_yellow_player 7
 # Row 8
-scoreboard players set 8 sidebar_yellow 8
+scoreboard players set 8 sidebar_yellow_player 8
 # Row 9
-scoreboard players set 9 sidebar_yellow 9
+scoreboard players set 9 sidebar_yellow_player 9
 # Row 10
-scoreboard players set 10 sidebar_yellow 10
+scoreboard players set 10 sidebar_yellow_player 10
 # Row 11
-scoreboard players set 11 sidebar_yellow 11
+scoreboard players set 11 sidebar_yellow_player 11
 # Row 12
-scoreboard players set 12 sidebar_yellow 12
+scoreboard players set 12 sidebar_yellow_player 12
 # Row 13
-scoreboard players set 13 sidebar_yellow 13
+scoreboard players set 13 sidebar_yellow_player 13
 # Row 14
-scoreboard players set 14 sidebar_yellow 14
+scoreboard players set 14 sidebar_yellow_player 14
 # Row 15
-scoreboard players set 15 sidebar_yellow 15
+scoreboard players set 15 sidebar_yellow_player 15
