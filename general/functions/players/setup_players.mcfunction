@@ -3,7 +3,7 @@
 # Clear Storage
     # api
         data modify storage api:player stats set value {}
-        data modify storage api:player team set value {}
+        data modify storage api:player teams set value {}
 
     # Player
         data modify storage minecraft:player actionbar set value {}
