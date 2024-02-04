@@ -1,1 +1,0 @@
-function general:players/player_systems/teams/utils/is_team_empty

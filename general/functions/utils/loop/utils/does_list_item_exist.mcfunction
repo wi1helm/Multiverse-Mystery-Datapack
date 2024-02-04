@@ -1,0 +1,1 @@
+$execute store success score item_exist loop run data get storage minecraft:$(path)[$(index)]

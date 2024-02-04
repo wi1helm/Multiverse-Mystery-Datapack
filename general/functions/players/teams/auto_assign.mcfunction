@@ -1,4 +1,9 @@
 
-$execute if function general:is_team as @a unless entity @s[team=$(team)_player] run scoreboard players set @s player_teams 1
 
-$execute as @r[scores={player_teams=1}] run team join $(team)_player @s
+# Check if player in team already, if true return
+execute as @s if function general:players/player_systems/teams/utils/is_player_in_team run return 0
+
+# Loop all teams
+execute as @s run function general:utils/loop/for_each_function {"function":"general:players/player_systems/teams/assign","list_path":"players team.teams","varible":"team"}
+    # check if team is empty
+        # if team empty, player join that team

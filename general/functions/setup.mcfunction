@@ -16,4 +16,6 @@
 
 # ------- quests -------
 
+# ------- utils -------
+    function general:utils/setup_utils
 tellraw @a {"text":"> SETUP COMPLETED!"}

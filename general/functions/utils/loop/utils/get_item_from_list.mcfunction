@@ -1,0 +1,1 @@
+$data modify storage minecraft:utils loop.element.$(varible) set from storage minecraft:$(path)[$(index)]
