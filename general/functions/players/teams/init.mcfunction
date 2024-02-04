@@ -1,0 +1,1 @@
+team add yellow_player {"text":"Player"}

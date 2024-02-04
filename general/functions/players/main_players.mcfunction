@@ -1,5 +1,5 @@
 # API
-execute as @a run function general:players/player_systems/stats_api
+execute as @a run function general:players/player_systems/api/stats_api
 
 # Actionbar
 execute as @a run function general:players/player_systems/actionbar/update_actionbar

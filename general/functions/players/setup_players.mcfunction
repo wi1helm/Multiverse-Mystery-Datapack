@@ -6,6 +6,8 @@
         data modify storage minecraft:player api set value {}
         data modify storage minecraft:player stats set value {}
 
+        data modify storage minecraft:player teams set value ["aqua","black","blue","dark_aqua","dark_blue","dark_gray","dark_green","dark_purple","dark_red","gold","gray","green","light_purple","red","white","yellow"]
+
 # Scoreboard Objectives
     # Show Player Stats
         scoreboard objectives add show_player_stats dummy
@@ -36,6 +38,10 @@
 
         # Player Max Health
             scoreboard objectives add player_max_health dummy
+
+    # Teams
+        # Player Teams
+            scoreboard objectives add player_teams dummy
 
 # Scoreboard Sets
     # Food
