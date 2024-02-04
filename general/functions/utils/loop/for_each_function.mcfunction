@@ -6,9 +6,9 @@ $data modify storage minecraft:utils loop.temp merge value {"var":"$(varible)"}
 
 execute if function general:utils/loop/utils/index_out_of_list run return run scoreboard players reset index loop
 
-function general:utils/loop/utils/get_element_from_list with storage loop.temp
+function general:utils/loop/utils/get_element_from_list with storage minecraft:utils loop.temp
 
-$execute as @s run function $(function) with storage loop.element
+$execute as @s run function $(function) with storage minecraft:utils loop.element
 
 execute if score break loop matches 1 run return run scoreboard players set break loop 1
 
