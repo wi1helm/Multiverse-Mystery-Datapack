@@ -46,5 +46,5 @@ scoreboard objectives setdisplay sidebar.team.white sidebar_white
 scoreboard objectives add sidebar_yellow dummy {"text":"Multiverse Mystery","bold":true,"color":"yellow"}
 scoreboard objectives setdisplay sidebar.team.yellow sidebar_yellow
 
-
+function general:players/scoreboards/init_player_rows
 
