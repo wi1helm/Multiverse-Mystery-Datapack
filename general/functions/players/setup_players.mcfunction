@@ -50,4 +50,4 @@
 
 
 # Teams
-    function general:player/player_systems/teams/init
+    function general:players/player_systems/teams/init
