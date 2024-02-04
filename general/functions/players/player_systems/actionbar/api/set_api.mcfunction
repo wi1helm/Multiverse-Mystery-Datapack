@@ -5,4 +5,4 @@ $data modify storage minecraft:player actionbar.api.temp merge value {"text":'$(
 
 execute as @s run function general:players/player_systems/actionbar/api/update_api with storage minecraft:player actionbar.api.temp
 
-data remove storage minecraft:player action.api.temp
+data remove storage minecraft:player actionbar.api
