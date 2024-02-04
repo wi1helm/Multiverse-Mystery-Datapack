@@ -51,3 +51,7 @@
 
 # Teams
     function general:players/player_systems/teams/init
+    function general:players/player_systems/teams/scoreboard/init
+
+# Scoreboard
+    function general:players/player_systems/scoreboards/init
