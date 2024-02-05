@@ -11,6 +11,7 @@ execute as @s run function general:utils/players/get_name {"path":"minecraft:pla
 execute as @s run function general:players/player_systems/purse/utils/get_coins with storage minecraft:player purse.temp
 # Get name from temp
 data modify storage api:player temp.name set from storage minecraft:player purse.temp.name
+data modify storage api:player temp.score set from storage minecraft:player purse.temp.score
 
 # Update sidebar using storage
 execute as @s run function general:players/player_systems/purse/utils/update_purse with storage api:player temp
