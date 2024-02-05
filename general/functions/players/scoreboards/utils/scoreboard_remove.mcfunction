@@ -1,0 +1,1 @@
+scoreboard player remove @s $(objective) $(score)

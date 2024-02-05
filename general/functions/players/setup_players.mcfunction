@@ -13,6 +13,16 @@
 
 # Scoreboard Objectives
 
+    # Purse
+        # Purse
+            scoreboard objectives add player_purse dummy
+    # Shards
+            # Shards
+                scoreboard objectives add player_shards dummy
+    # Shards
+            # Purse
+                scoreboard objectives add player_bits dummy
+
     # Food
         # Player Food Constant
             scoreboard objectives add player_food_constant dummy

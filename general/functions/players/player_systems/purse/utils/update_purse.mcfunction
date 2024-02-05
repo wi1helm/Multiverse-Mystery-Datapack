@@ -1,0 +1,1 @@
+$execute as @s run function general:players/scoreboards/api/set_api {"text":'[{"text":" Purse: ","color":"white"},{"text":"$(coins).0","color":"gold"}]',"row":9}

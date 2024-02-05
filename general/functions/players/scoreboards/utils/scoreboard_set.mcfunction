@@ -1,0 +1,1 @@
+scoreboard player set @s $(objective) $(score)

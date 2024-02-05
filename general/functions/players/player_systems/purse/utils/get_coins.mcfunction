@@ -1,0 +1,1 @@
+$data modify storage api:players temp.coins set from storage api:players stats.$(name).coins
