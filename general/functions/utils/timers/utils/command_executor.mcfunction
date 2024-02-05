@@ -1,1 +1,1 @@
-$execute as $(selector) at @s run $(command)
+$execute as $(selector) at @s run $(command) $(arg)
