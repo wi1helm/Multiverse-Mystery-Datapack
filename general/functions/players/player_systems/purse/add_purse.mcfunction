@@ -12,8 +12,9 @@ execute as @s run function general:players/player_systems/purse/utils/get_coins 
 # Get name from temp
 data modify storage api:player temp.name set from storage minecraft:player purse.temp.name
 data modify storage api:player temp.score set from storage minecraft:player purse.temp.score
+
 # Update sidebar using storage
-execute as @s run function general:players/player_systems/purse/utils/update_purse with storage api:player temp
+execute as @s run function general:players/player_systems/purse/utils/update_purse_add with storage api:player temp
 # Remove temp files
 data remove storage minecraft:player purse.temp
 data remove storage api:player temp
