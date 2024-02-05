@@ -1,5 +1,7 @@
 # Setup
 
+team leave @a
+
 # Clear Storage
     # api
         data modify storage api:player stats set value {}

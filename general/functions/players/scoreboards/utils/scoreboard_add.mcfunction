@@ -1,1 +1,1 @@
-scoreboard player add @s $(objective) $(score)
+scoreboard players add @s $(objective) $(score)
