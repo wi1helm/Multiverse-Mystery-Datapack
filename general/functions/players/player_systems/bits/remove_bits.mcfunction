@@ -2,7 +2,7 @@
 $data modify storage minecraft:player bits.temp set value {"objective":"player_bits","score":'$(bits)'}
 
 #Change Scoreboard with add
-execute as @s run function general:players/scoreboards/utils/scoreboard_add with storage minecraft:player bits.temp
+execute as @s run function general:players/scoreboards/utils/scoreboard_remove with storage minecraft:player bits.temp
 #Update API
 execute as @s run function general:players/api/get_player
 # Get player name

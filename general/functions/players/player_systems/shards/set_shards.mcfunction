@@ -2,7 +2,7 @@
 $data modify storage minecraft:player shards.temp set value {"objective":"player_shards","score":'$(shards)'}
 
 #Change Scoreboard with add
-execute as @s run function general:players/scoreboards/utils/scoreboard_add with storage minecraft:player shards.temp
+execute as @s run function general:players/scoreboards/utils/scoreboard_set with storage minecraft:player shards.temp
 #Update API
 execute as @s run function general:players/api/get_player
 # Get player name
