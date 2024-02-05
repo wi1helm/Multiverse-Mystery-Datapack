@@ -80,3 +80,4 @@ scoreboard objectives modify sidebar_yellow_player numberformat blank
 
 function general:players/scoreboards/init_player_rows
 
+

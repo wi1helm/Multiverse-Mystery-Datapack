@@ -10,7 +10,7 @@ function general:utils/loop/utils/get_element_from_list with storage minecraft:u
 
 $execute as @s run function $(function) with storage minecraft:utils loop.element
 
-execute if score break loop matches 1 run return run scoreboard players set break loop 1
+execute if score break loop matches 1 run return run scoreboard players reset break loop
 
 scoreboard players add index loop 1
 $function general:utils/loop/for_each_function {"function":"$(function)","list_path":"$(list_path)","varible":"$(varible)"}
