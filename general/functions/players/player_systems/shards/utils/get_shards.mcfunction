@@ -1,0 +1,1 @@
+$data modify storage api:player temp.shards set from storage api:player stats.$(name).shards

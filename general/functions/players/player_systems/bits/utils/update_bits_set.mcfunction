@@ -1,0 +1,1 @@
+$function general:utils/timers/init_timer {"ticks":"1","selector":"$(name)","command":"function general:players/scoreboards/api/set_api","args":{"text":'[{"text":" Bits: ","color":"white"},{"text":"$(bits).0","color":"aqua"}]',"row":7},"type":"function"}

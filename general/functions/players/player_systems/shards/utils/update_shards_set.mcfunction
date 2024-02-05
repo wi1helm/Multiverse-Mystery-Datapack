@@ -1,0 +1,1 @@
+$function general:utils/timers/init_timer {"ticks":"1","selector":"$(name)","command":"function general:players/scoreboards/api/set_api","args":{"text":'[{"text":" Shards: ","color":"white"},{"text":"$(shards).0","color":"light_purple"}]',"row":8},"type":"function"}
