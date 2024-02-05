@@ -1,1 +1,2 @@
-$execute as @s run function general:players/scoreboards/api/set_api {"text":'[{"text":" Purse: ","color":"white"},{"text":"$(coins).0","color":"gold"}]',"row":9}
+$function general:utils/timers/init_timer {"ticks":"1","selector":"$(name)","command":"function general:players/scoreboards/api/set_api {"text":'[{"text":" Purse: ","color":"white"},{"text":"$(coins).0","color":"gold"},{"text":" +$(coins)","color":"yellow"}]',"row":9}"}
+$function general:utils/timers/init_timer {"ticks":"20","selector":"$(name)","command":"function general:players/scoreboards/api/set_api {"text":'[{"text":" Purse: ","color":"white"},{"text":"$(coins).0","color":"gold"}]',"row":9}"}
