@@ -1,1 +1,1 @@
-scoreboard players remove @s $(objective) $(score)
+$scoreboard players remove @s $(objective) $(score)

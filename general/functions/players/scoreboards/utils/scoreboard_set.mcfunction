@@ -1,1 +1,1 @@
-scoreboard players set @s $(objective) $(score)
+$scoreboard players set @s $(objective) $(score)
