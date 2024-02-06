@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "area:village": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "position": {
+          "x": {
+            "min": 235,
+            "max": 250
+          },
+          "y": {
+            "min": -22,
+            "max": -29
+          },
+          "z": {
+            "min": 265,
+            "max": 285
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "general:players/player_systems/area_info/area"
+  }
+}
