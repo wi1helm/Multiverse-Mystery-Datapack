@@ -3,6 +3,9 @@ execute as @a run function general:players/api/get_player
 
 # Actionbar
 execute as @a run function general:players/player_systems/actionbar/update_actionbar
+# Sidebar
+    # Time
+    function general:players/player_systems/area_info/time
 
 # Team
 execute as @a run function general:players/teams/auto_assign

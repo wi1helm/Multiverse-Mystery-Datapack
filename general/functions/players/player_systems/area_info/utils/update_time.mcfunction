@@ -1,0 +1,1 @@
+$function general:players/scoreboards/api/set_api {"text":'[{"text":" Time: ","color":"green"},{"text":"$(time)","color":"white"}]',"row":13}
