@@ -1,1 +1,1 @@
-$execute as @s if entity @s[x=$(x1),y=$(y1),z=$(z1),dx=$(dx),dy=$(dy),dz=$(dz)] run say You at $(name)
+$execute as @s if entity @s[x=$(x1),y=$(y1),z=$(z1),dx=$(dx),dy=$(dy),dz=$(dz)] run function general:players/scoreboards/api/set_api {"text":'[{"text":" Area: ","color":"green"},{"text":"$(name)","color":"aqua"}]',"row":12}
