@@ -1,0 +1,2 @@
+data modify storage minecraft:area list append value {"Pcorner":{"x":1,"y":2,"z":3},"Ncorner":{"x":1,"y":2,"z":3},"name":"Village"}}
+data modify storage minecraft:area list append value {"Pcorner":{"x":1,"y":2,"z":3},"Ncorner":{"x":1,"y":2,"z":3},"name":"Mine Entrence"}}
