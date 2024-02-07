@@ -6,6 +6,7 @@ execute as @a run function general:players/player_systems/actionbar/update_actio
 # Sidebar
     # Time
     function general:players/player_systems/area_info/time/update_time
+    # Area
 
 # Team
 execute as @a run function general:players/teams/auto_assign
