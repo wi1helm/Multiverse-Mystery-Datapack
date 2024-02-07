@@ -1,1 +1,1 @@
-$say $(element)
+$function general:players/player_systems/area_info/area/check_box $(element)
