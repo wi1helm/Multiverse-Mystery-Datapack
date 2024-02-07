@@ -61,7 +61,8 @@ team leave @a
     # Food
         # Player Food Constant
             scoreboard players set $C player_food_constant 1
-
+    # Area
+        scoreboard players set $C player_area 2
 
 # Teams
     function general:players/teams/init_teams
