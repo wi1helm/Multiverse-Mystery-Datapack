@@ -2,6 +2,7 @@
 # Constants in score starts with $
 
 # ------- main -------
+    function general:main/custom_map/start_setup
 
 # ------- players -------
     function general:players/setup_players

@@ -8,9 +8,6 @@ execute as @a run function general:players/player_systems/actionbar/update_actio
     function general:players/player_systems/area_info/time/update_time
     # Area
     execute as @a run function general:players/player_systems/area_info/area/check_area
-# Team
-execute as @a run function general:players/teams/auto_assign
-
 # Food
 execute as @a run function general:players/player_systems/food/update_food
 # Health

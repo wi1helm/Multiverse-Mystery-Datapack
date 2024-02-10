@@ -1,5 +1,7 @@
 #Setup timers
 
+function general:setup
+
 # Function Timer
 
 
