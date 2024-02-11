@@ -6,6 +6,8 @@ execute if score player_count player_count matches 5.. run return run tellraw @a
 
 execute as @a run function general:players/teams/auto_assign
 
+execute as @a run gamemode adventure
+
 execute if score player_count player_count matches 1 run function general:main/structure_systems/chapter0/1_player/spawn_player
 execute if score player_count player_count matches 2 run function general:main/structure_systems/chapter0/2_players/spawn_player
 execute if score player_count player_count matches 3 run function general:main/structure_systems/chapter0/3_players/spawn_player
