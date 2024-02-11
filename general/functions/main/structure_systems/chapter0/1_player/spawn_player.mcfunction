@@ -10,4 +10,5 @@ execute as @a[tag=player1] run tp 2.19 -53.00 15.50
 title @a subtitle {"text":"Wormhole","color":"green"}
 title @a title {"text":"[Chapter 15]","color":"green"}
 
+execute as @a run function general:players/player_systems/purse/set_purse {coins:"40",row:10}
 
