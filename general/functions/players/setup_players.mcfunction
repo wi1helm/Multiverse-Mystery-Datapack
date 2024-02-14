@@ -67,3 +67,6 @@ team leave @a
 
 # Scoreboard
     function general:players/scoreboards/init_scoreboards
+
+# Bossbar
+    function general:players/bossbar/objectives/add_bossbars

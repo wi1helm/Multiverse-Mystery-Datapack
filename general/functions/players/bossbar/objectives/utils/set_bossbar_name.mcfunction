@@ -1,0 +1,1 @@
+$bossbar set minecraft:objectives_$(team) name $(name)
