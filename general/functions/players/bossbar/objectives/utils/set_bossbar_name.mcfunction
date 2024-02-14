@@ -1,1 +1,1 @@
-$bossbar set minecraft:objectives_$(team) name $(name)
+$bossbar set minecraft:objectives_$(team) name ["",{"text":"Objective","bold":true,"color":"dark_aqua"},{"text":": ","color":"dark_gray"},$(name),{"text":" [0/$(max)]","color":"gray"}]
