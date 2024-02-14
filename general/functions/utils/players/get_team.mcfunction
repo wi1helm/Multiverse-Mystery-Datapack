@@ -1,1 +1,1 @@
-$execute at @s run data modify storage $(path) set from storage api:player teams.$(name).team
+$execute at @s run data modify storage $(path) set from storage api:player teams.$(player_name).team
