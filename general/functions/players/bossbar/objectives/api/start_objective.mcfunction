@@ -2,7 +2,7 @@
 
 execute as @s run function general:utils/players/get_name {"path":"minecraft:player objectives.temp.player_name"}
 
-execute if function general:players/bossbar/objectives/utils/got_active_objective return run tellraw @s[tag=debug] {"text":"Already got an objective","color":"red"}
+execute if function general:players/bossbar/objectives/utils/got_active_objective run return run tellraw @s[tag=debug] {"text":"Already got an objective","color":"red"}
 
 data modify storage minecraft:player objectives.temp merge value {"path":"minecraft:player objectives.temp.team"}
 
