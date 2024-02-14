@@ -1,0 +1,1 @@
+$execute store success score exist player_objectives run data get storage api:player objectives.$(player_name)

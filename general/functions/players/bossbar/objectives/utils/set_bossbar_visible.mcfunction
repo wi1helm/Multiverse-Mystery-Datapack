@@ -1,1 +1,0 @@
-$bossbar set minecraft:objectives_$(team) value true

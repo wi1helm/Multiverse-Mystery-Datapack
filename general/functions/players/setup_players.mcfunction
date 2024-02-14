@@ -6,7 +6,7 @@ team leave @a
     # api
         data modify storage api:player stats set value {}
         data modify storage api:player teams set value {}
-
+        data modify storage api:player objectives set value {}
     # Player
         data modify storage minecraft:player actionbar set value {}
         data modify storage minecraft:player stats set value {}
