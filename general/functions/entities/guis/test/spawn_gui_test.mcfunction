@@ -1,1 +1,1 @@
-function general:entities/guistest/init
+function general:entities/guis/test/init
