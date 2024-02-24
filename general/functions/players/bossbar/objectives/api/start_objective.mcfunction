@@ -23,4 +23,4 @@ function general:players/bossbar/objectives/utils/bossbar/set_bossbar_player wit
 
 execute if score @s player_objectives_show_m matches 1 run function general:players/bossbar/objectives/utils/messages/send_objective_message with storage minecraft:player objectives.temp
 
-data remove storage minecraft:player objectives.temp
+#data remove storage minecraft:player objectives.temp
