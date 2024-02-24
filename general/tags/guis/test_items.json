@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gray_stained_glass_pane",
+    "minecraft:acacia_boat",
+    "minecraft:acacia_sapling",
+    "minecraft:acacia_chest_boat"
+  ]
+}

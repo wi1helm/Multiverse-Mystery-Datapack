@@ -1,0 +1,1 @@
+function general:entities/guistest/init
