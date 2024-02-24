@@ -17,6 +17,8 @@ team leave @a
     # Objectives
             scoreboard objectives add player_objectives dummy
             scoreboard objectives add player_objectives_max dummy
+            scoreboard objectives add player_objectives_show_p dummy
+            scoreboard objectives add player_objectives_show_m dummy
     # Area
             scoreboard objectives add player_area dummy
     # Purse

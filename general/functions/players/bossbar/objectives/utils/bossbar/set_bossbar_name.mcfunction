@@ -1,0 +1,2 @@
+$execute if score @s player_objectives_show_p matches 1 run bossbar set minecraft:objectives_$(team) name ["",{"text":"Objective","bold":true,"color":"dark_aqua"},{"text":": ","color":"dark_gray"},$(name),{"text":" [0/$(max)]","color":"gray"}]
+$execute if score @s player_objectives_show_p matches 0 run bossbar set minecraft:objectives_$(team) name ["",{"text":"Objective","bold":true,"color":"dark_aqua"},{"text":": ","color":"dark_gray"}]
