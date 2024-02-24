@@ -8,7 +8,7 @@ data modify storage minecraft:player objectives.temp merge value {"path":"minecr
 
 execute as @s run function general:utils/players/get_team with storage minecraft:player objectives.temp
 
-$data modify storage minecraft:player objectives.temp merge value {"name":'$(name)',"id":$(id),"max":$(max),"info":'$(info)',"show_progress":$(show_progress),"show_message":$(show_message)}
+$data modify storage minecraft:player objectives.temp merge value {"name":'$(name)',"id":$(id),"progress":0,"max":$(max),"info":'$(info)',"show_progress":$(show_progress),"show_message":$(show_message)}
 
 function general:players/bossbar/objectives/utils/api/objective_api_save with storage minecraft:player objectives.temp
 

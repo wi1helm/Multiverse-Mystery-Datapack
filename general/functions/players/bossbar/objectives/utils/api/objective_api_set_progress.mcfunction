@@ -1,0 +1,1 @@
+$data modify storage api:player objectives.$(player_name).progress set value $(progress)

@@ -1,0 +1,1 @@
+$data modify storage $(merge_path) merge from api:player objectives.$(player_name)
