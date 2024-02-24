@@ -21,6 +21,6 @@ $scoreboard players set @s player_objectives_show_m $(show_message)
 function general:players/bossbar/objectives/utils/bossbar/set_bossbar_name with storage minecraft:player objectives.temp
 function general:players/bossbar/objectives/utils/bossbar/set_bossbar_player with storage minecraft:player objectives.temp
 
-execute if score @s player_objectives_show_m matches 1 run function general:players/bossbar/utils/messages/send_objective_message with storage minecraft:player objectives.temp
+execute if score @s player_objectives_show_m matches 1 run function general:players/bossbar/objectives/utils/messages/send_objective_message with storage minecraft:player objectives.temp
 
 data remove storage minecraft:player objectives.temp
