@@ -1,3 +1,6 @@
+team add entity
+team modify entity collisionRule never
+
 team add aqua_player {"text":"Player"}
 team modify aqua_player color aqua
 
