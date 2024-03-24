@@ -3,6 +3,7 @@
 
 # ------- main -------
     function general:main/custom_map/start_setup
+    function general:main/structure_systems/setup
 
 # ------- players -------
     function general:players/setup_players

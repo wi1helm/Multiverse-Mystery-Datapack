@@ -2,7 +2,7 @@
 
 execute store result score player_count player_count if entity @a
 
-execute if score player_count player_count matches 5.. run return run tellraw @a ["",{"text":"[URGENT}","bold":true,"color":"dark_red"},{"text":" Fuck YOU!! More then 4 Players!!","color":"red"}]
+execute if score player_count player_count matches 5.. run return run tellraw @a ["",{"text":"[URGENT}","bold":true,"color":"dark_red"},{"text":" Fuck YOU!! More then 4 Players Not Allowed!!","color":"red"}]
 
 execute as @a run function general:players/teams/auto_assign
 
