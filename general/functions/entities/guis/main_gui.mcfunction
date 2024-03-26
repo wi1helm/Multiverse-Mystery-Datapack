@@ -1,1 +1,0 @@
-execute as @e[type=chest_minecart,tag=minecart_gui] at @s if @a[distance=..6] run say nub
