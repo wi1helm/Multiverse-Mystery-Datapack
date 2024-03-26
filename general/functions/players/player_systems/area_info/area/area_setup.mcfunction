@@ -6,6 +6,8 @@ data modify storage minecraft:area list append value {"corners":{"x1":10,"y1":-6
 data modify storage minecraft:area list append value {"corners":{"x1":15,"y1":-58,"z1":15,"x2":29,"y2":-50,"z2":25},"name":"Fun Room","color":"#ff7518"}
 data modify storage minecraft:area list append value {"corners":{"x1":16,"y1":-58,"z1":22,"x2":18,"y2":-53,"z2":24},"name":"Snake","color":"#9CCE35"}
 data modify storage minecraft:area list append value {"corners":{"x1":19,"y1":-58,"z1":22,"x2":21,"y2":-53,"z2":24},"name":"Pac-Man","color":"yellow"}
+data modify storage minecraft:area list append value {"corners":{"x1":15,"y1":-58,"z1":15,"x2":18,"y2":-53,"z2":18},"name":"Corrupted Tag","color":"#401A3B"}
+
 data modify storage minecraft:area list append value {"corners":{"x1":10,"y1":-58,"z1":19,"x2":14,"y2":-52,"z2":42},"name":"Hallway","color":"light_purple"}
 data modify storage minecraft:area list append value {"corners":{"x1":10,"y1":-63,"z1":19,"x2":14,"y2":-59,"z2":46},"name":"Engine Hallway","color":"#A8640F"}
 data modify storage minecraft:area list append value {"corners":{"x1":-9,"y1":-61,"z1":-10,"x2":24,"y2":-47,"z2":13},"name":"Bridge","color":"blue"}

@@ -1,0 +1,1 @@
+$fill 11 -54 14 13 -57 14 minecraft:$(block) replace
