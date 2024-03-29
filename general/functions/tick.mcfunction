@@ -8,7 +8,7 @@
 # ------- gui -------
 
 # ------- quests -------
-
+    function general:quests/main_quests
 # ------- minigames -------
 
 # ------- quests -------
