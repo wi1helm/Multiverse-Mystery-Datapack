@@ -1,5 +1,5 @@
 #[main]
-execute if score @s hopHooverDetect matches 1.. run function general:quests/spaceshop/items/hop-hoover/reset
+execute if score @s hopHooverDetect matches 1.. run function general:quests/spaceship/items/hop-hoover/reset
 
 #[main]
 
