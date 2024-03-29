@@ -8,4 +8,5 @@ execute at @s unless entity 0-0-0-0-0 run summon item_display ~0. ~1.2 ~0. {UUID
 
 execute at @s run tp 0-0-0-0-0 ~ ~1.2 ~
 
+scoreboard players set @s hopHooverRange 0
 execute at @s run function general:quests/spaceship/items/hop-hoover/raycast
