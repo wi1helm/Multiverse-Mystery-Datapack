@@ -3,9 +3,10 @@ execute if score @s hopHooverDetect matches 1.. run function general:quests/spac
 
 #[main]
 
-# Decrease <timer> by one until it hits 0
+# Decrease hopHooverDetectHold by one until it hits 0
 scoreboard players remove @s[scores={hopHooverDetectHold=1..}] hopHooverDetectHold 1
 
-# If <timer> is more than 0, we know that the player has right clicked within the last 5 ticks.
-# (Since <timer> decrease by 1 every tick and every time a right click is performed <timer> is set to 5 again.)
-execute if score @s hopHooverDetectHold matches 1.. run say Player is Holding Right Click! Time to hoover!
+# If hopHooverDetectHold is more than 0, we know that the player has right clicked within the last 5 ticks.
+# (Since hopHooverDetectHold decrease by 1 every tick and every time a right click is performed hopHooverDetectHold is set to 5 again.)
+execute if score @s hopHooverDetectHold matches 1.. run return run function general:quests/spaceship/items/hop-hoover/power_up
+execute unless score @s hopHooverDetectHold matches 1.. run return run function general:quests/spaceship/items/hop-hoover/power_down
