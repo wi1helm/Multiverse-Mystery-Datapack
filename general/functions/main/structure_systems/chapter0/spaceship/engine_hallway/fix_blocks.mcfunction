@@ -18,4 +18,3 @@ fill 18 -60 45 17 -60 45 minecraft:lever[face=wall,powered=false,facing=north] r
 setblock 15 -60 45 minecraft:lever[face=wall,powered=false,facing=north] replace
 setblock 9 -60 45 minecraft:lever[face=wall,powered=false,facing=north] replace
 fill 7 -60 45 6 -60 45 minecraft:lever[face=wall,powered=false,facing=north] replace
-
