@@ -11,3 +11,6 @@ scoreboard objectives add hopHooverPower dummy
 
 #> ???
 scoreboard objectives add hopHooverRange dummy
+
+#> ???
+scoreboard objectives add hopHooverVectors dummy
