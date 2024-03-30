@@ -31,9 +31,9 @@ scoreboard players operation xRabbitPos hopHooverVectors *= @s hopHooverPower
 scoreboard players operation yRabbitPos hopHooverVectors *= @s hopHooverPower
 scoreboard players operation zRabbitPos hopHooverVectors *= @s hopHooverPower
 
-execute store result storage minecraft:entity rabbit.vector.temp.vx float -0.00004 run scoreboard players get xRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vy float -0.00004 run scoreboard players get yRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vz float -0.00004 run scoreboard players get zRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vx float -0.000004 run scoreboard players get xRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vy float -0.000004 run scoreboard players get yRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vz float -0.000004 run scoreboard players get zRabbitPos hopHooverVectors
 
 function general:quests/spaceship/items/hop-hoover/inflict_motion with storage minecraft:entity rabbit.vector.temp
 
