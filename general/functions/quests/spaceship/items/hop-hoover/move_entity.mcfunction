@@ -1,6 +1,4 @@
-say hi im here
 execute at @s run particle composter ~ ~ ~ 0 0 0 1 1 normal
-
 
 execute store result score xRabbitPos hopHooverVectors run data get entity @s Pos[0] 100
 execute store result score yRabbitPos hopHooverVectors run data get entity @s Pos[1] 100
@@ -33,12 +31,12 @@ scoreboard players operation xRabbitPos hopHooverVectors *= @s hopHooverPower
 scoreboard players operation yRabbitPos hopHooverVectors *= @s hopHooverPower
 scoreboard players operation zRabbitPos hopHooverVectors *= @s hopHooverPower
 
-execute store result storage minecraft:entity rabbit.vector.temp.vx float -0.0004 run scoreboard players get xRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vy float -0.0004 run scoreboard players get yRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vz float -0.0004 run scoreboard players get zRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vx float -0.00004 run scoreboard players get xRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vy float -0.00004 run scoreboard players get yRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vz float -0.00004 run scoreboard players get zRabbitPos hopHooverVectors
 
 function general:quests/spaceship/items/hop-hoover/inflict_motion with storage minecraft:entity rabbit.vector.temp
 
-execute at @s if entity @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1,distance=..0.75] run function general:quests/spaceship/items/hop-hoover/remove_rabbit
+execute at @s if entity @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1,distance=..1] run function general:quests/spaceship/items/hop-hoover/remove_rabbit
  # get dif in x y z 
 # merge new motion based on power/distance * thier motion
