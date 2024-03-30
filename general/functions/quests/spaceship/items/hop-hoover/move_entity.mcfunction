@@ -29,10 +29,10 @@ scoreboard players operation xRabbitPos hopHooverVectors *= lenToPlayer hopHoove
 scoreboard players operation yRabbitPos hopHooverVectors *= lenToPlayer hopHooverVectors
 scoreboard players operation zRabbitPos hopHooverVectors *= lenToPlayer hopHooverVectors
 
-execute store result storage minecraft:entity rabbit.vector.temp.vx float 0.01 run scoreboard players get xRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vy float 0.01 run scoreboard players get yRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vz float 0.01 run scoreboard players get zRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vx float 0.00001 run scoreboard players get xRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vy float 0.00001 run scoreboard players get yRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vz float 0.00001 run scoreboard players get zRabbitPos hopHooverVectors
 
-function general:functions/quests/spaceship/items/hop-hoover/inflict_motion with storage minecraft:entity rabbit.vector.temp
+function general:quests/spaceship/items/hop-hoover/inflict_motion with storage minecraft:entity rabbit.vector.temp
  # get dif in x y z 
 # merge new motion based on power/distance * thier motion
