@@ -1,6 +1,6 @@
 # 99 power to not exeed 100% 0-100%
 scoreboard players add @s[scores={hopHooverPower=..99}] hopHooverPower 1 
-scoreboard players remove soundTimer[scores={hopHooverDetectHold=1..}] hopHooverDetectHold 1 
+execute if score %soundTimer hopHooverDetectHold matches 1.. run scoreboard players remove %soundTimer hopHooverDetectHold 1 
 execute store result storage minecraft:player quests.items.hop-hoover.pitch float 0.015 run scoreboard players get @s hopHooverPower
 execute as @s run function general:quests/spaceship/items/hop-hoover/sound with storage minecraft:player quests.items.hop-hoover
 
