@@ -14,3 +14,4 @@ scoreboard objectives add hopHooverRange dummy
 
 #> ???
 scoreboard objectives add hopHooverVectors dummy
+scoreboard players set C_100 hopHooverVectors 100

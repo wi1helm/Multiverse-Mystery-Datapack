@@ -26,15 +26,16 @@ function general:utils/players/get_ditance with storage minecraft:entity rabbit.
 execute store result score lenToPlayer hopHooverVectors run data get entity 0-0-0-0-0 transformation.scale[0] 100
 
 scoreboard players operation @s hopHooverPower = @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1] hopHooverPower
+scoreboard players operation @s hopHooverPower *= C_100 hopHooverVectors
 scoreboard players operation @s hopHooverPower /= lenToPlayer hopHooverVectors
 
 scoreboard players operation xRabbitPos hopHooverVectors *= @s hopHooverPower
 scoreboard players operation yRabbitPos hopHooverVectors *= @s hopHooverPower
 scoreboard players operation zRabbitPos hopHooverVectors *= @s hopHooverPower
 
-execute store result storage minecraft:entity rabbit.vector.temp.vx float -0.00001 run scoreboard players get xRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vy float -0.00001 run scoreboard players get yRabbitPos hopHooverVectors
-execute store result storage minecraft:entity rabbit.vector.temp.vz float -0.00001 run scoreboard players get zRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vx float -0.0001 run scoreboard players get xRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vy float -0.0001 run scoreboard players get yRabbitPos hopHooverVectors
+execute store result storage minecraft:entity rabbit.vector.temp.vz float -0.0001 run scoreboard players get zRabbitPos hopHooverVectors
 
 function general:quests/spaceship/items/hop-hoover/inflict_motion with storage minecraft:entity rabbit.vector.temp
  # get dif in x y z 
