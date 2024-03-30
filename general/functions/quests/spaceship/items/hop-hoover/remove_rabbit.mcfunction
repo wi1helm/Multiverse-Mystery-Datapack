@@ -1,2 +1,2 @@
-particle wax_off ~ ~ ~ 0 0 0 1 1 normal
+playsound minecraft:entity.puffer_fish.blow_up ambient @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1] ~ ~ ~ 1 0.3
 tp @s ~ -2000 ~

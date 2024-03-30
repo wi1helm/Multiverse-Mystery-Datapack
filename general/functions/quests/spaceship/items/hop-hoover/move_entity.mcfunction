@@ -37,6 +37,6 @@ execute store result storage minecraft:entity rabbit.vector.temp.vz float -0.000
 
 function general:quests/spaceship/items/hop-hoover/inflict_motion with storage minecraft:entity rabbit.vector.temp
 
-execute at @s if entity @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1,distance=..1] run function general:quests/spaceship/items/hop-hoover/remove_rabbit
+execute at @s if score @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1,distance=..2] hopHooverPower matches 95..100 run function general:quests/spaceship/items/hop-hoover/remove_rabbit
  # get dif in x y z 
 # merge new motion based on power/distance * thier motion
