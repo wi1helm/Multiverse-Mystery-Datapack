@@ -1,0 +1,1 @@
+$data modify entity @e[tag=wild_rabbits_package_procent,limit=1] text set value '[{"text":"$(procent)%","color":"red"},{"text":" Full","color":"green"}]'

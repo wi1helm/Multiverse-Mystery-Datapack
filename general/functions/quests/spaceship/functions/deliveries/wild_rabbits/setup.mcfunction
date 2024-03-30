@@ -1,0 +1,1 @@
+scoreboard objectives add wild_rabbits_package_procent dummy
