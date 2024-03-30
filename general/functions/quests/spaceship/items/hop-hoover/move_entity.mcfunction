@@ -10,6 +10,8 @@ execute store result score xPlayerPos hopHooverVectors run data get entity @a[ta
 execute store result score yPlayerPos hopHooverVectors run data get entity @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1] Pos[1] 100
 execute store result score zPlayerPos hopHooverVectors run data get entity @a[tag=quest_wildrabbit,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",Count:1b,tag:{hopHoover:1b}}},limit=1] Pos[2] 100
 
+scoreboard players add yPlayerPos hopHooverVectors 100
+
 scoreboard players operation xRabbitPos hopHooverVectors -= xPlayerPos hopHooverVectors
 scoreboard players operation yRabbitPos hopHooverVectors -= yPlayerPos hopHooverVectors
 scoreboard players operation zRabbitPos hopHooverVectors -= zPlayerPos hopHooverVectors
