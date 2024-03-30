@@ -1,1 +1,1 @@
-$playsound minecraft:entity.wither.shoot ambient @s ~ ~ ~ 1 $(pitch)
+$playsound minecraft:entity.wither.shoot block @s ~ ~ ~ 1 $(pitch)
