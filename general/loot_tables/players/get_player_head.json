@@ -8,8 +8,8 @@
           "name": "minecraft:player_head",
           "functions": [
             {
-              "function": "minecraft:set_nbt",
-              "tag": "{PlayerHead:1b,PickupDelay:1999980}"
+              "function": "minecraft:set_custom_data",
+              "tag": "{fromGetName:1b}"
             },
             {
               "function": "minecraft:fill_player_head",
